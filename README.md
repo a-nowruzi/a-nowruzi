@@ -5,4 +5,4 @@ Hi ✋🏻! I'm **Alireza Nowruzi** from Shiraz 📍. My professional carrier st
 
 # *Stay In Touch*
 
-You can find me in WhatsApp 🛎: 09171067163
+You can find me 🛎 in WhatsApp: 09171067163
