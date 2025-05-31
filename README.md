@@ -6,7 +6,7 @@ I've been writing code professionally since **2017**, but the obsession began in
 
 ### 🧠 My Toolkit Includes:
 - ⚛️ React — Building snappy, scalable UIs
-- 🧩 C# — Crafting solid backend logic (and maybe the occasional Windows app!)
+- 🧩 C# — Crafting solid backend logic
 - 📱 Flutter — Cross-platform apps that don’t just work, but *wow*
 
 ---
