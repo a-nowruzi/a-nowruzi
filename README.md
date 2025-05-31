@@ -1,12 +1,12 @@
 <h1 align="center">Hey there, I'm Alireza 👋🏻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=37B6F5&center=true&vCenter=true&width=435&lines=Fullstack+Developer;React+%7C+C%23+%7C+Flutter+Fanboy;Freelancer+%7C+Educator+%7C+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=37B6F5&center=true&vCenter=true&width=435&lines=Fullstack+Developer;React+%7C+C%23+%7C+Flutter;Educator+%7C+Explorer" alt="Typing SVG" />
 </p>
 
 ---
 
-# 👨🏻‍💻 A Little Bit of Me!
+## 👨🏻‍💻 A Little Bit of Me!
 
 Hi there! I'm **Alireza Nowruzi** from Tehran 📍 — a full-time coder, part-time bug whisperer, and caffeine-fueled software enthusiast.
 
@@ -30,15 +30,16 @@ I've been writing code professionally since **2017**, but the obsession began in
 ## 🐍 Watch My Contributions Slither
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AlirezaNowruzi/AlirezaNowruzi/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/a-nowruzi/a-nowruzi/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## 🔗 Connect With Me
+## 🚀 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alireza-nowruzi/)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@example.com)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:09171067163n@gmail.com)
+- Or just shoot a message here on GitHub — I don't bite (the keyboard might)
 
 ---
 
